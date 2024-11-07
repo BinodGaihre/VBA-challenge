@@ -8,3 +8,4 @@ op = opening price, cp = closing price, stri = ticker with greatest % increase, 
 "for loop" goes all the way from the second row to end row
 "do while loop" run unless a new ticker is detected
 maxa, mina and tt are used as a temporary variable to store the greates increse, decrease and greatest total stock volume.
+module_2_challenge.xlsx is my excel file where I coded and the output to the everyquaterscript.bas can be seen.
